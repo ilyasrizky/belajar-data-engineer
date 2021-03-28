@@ -1,0 +1,34 @@
+1. nama 
+
+2. kesibukan saat ini
+
+3. kenapa ikut kursus ini
+- ingin memahami data engineer
+- ingin upskill
+- ingin menambah kompetensi dan bisa bersaing
+
+4. apa harapan
+- bisa menjadi lulusan data engineering yang professional dan siap di dunia industri saat ini
+- bisa kenal banyak orang baru
+
+5. hal unik dalam diri kamu
+- kalo ingin tahu terhadap sesuatu yang baru akan kepo terus, dikulik terus sampe puas
+
+tugas-tugas =
+1. (QZ) quiz 15% - individu
+2. (HW) homework 15% - individu/kelompok
+3. (LR) learning progress review 20% - kelompok (senin 12 malam)
+4. (PB) professional branding 10% - individu (senin 12 malam) linkedin tag digital.skola
+5. (DP) data pipeline 40% - kelompok
+
+weekly progress report:
+- akan dishare hari jumat atau sesi terakhir dalam seminggu
+
+cracking DE interview 30 jun 2021
+-sharing tutor
+
+pembagian grup:
+kelompok4
+- harry
+- ilham
+- ilyas
